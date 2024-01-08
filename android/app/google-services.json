@@ -1,0 +1,108 @@
+{
+  "project_info": {
+    "project_number": "373562930910",
+    "project_id": "jawla-391604",
+    "storage_bucket": "jawla-391604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373562930910:android:86dc9f7cea38dea0c7344f",
+        "android_client_info": {
+          "package_name": "com.jawlah.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373562930910-5qsaokpgj6ma849ds2em03vp45g2717m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jawlah.app",
+            "certificate_hash": "c55264a89d68742a8bbb4b3f4d458bc52e827d9e"
+          }
+        },
+        {
+          "client_id": "373562930910-gjesu1b94jnn6s9epdjdcd4gh4ea0ann.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jawlah.app",
+            "certificate_hash": "bf0f46034e1988d0fe519ba7bc98a899a9e0cb75"
+          }
+        },
+        {
+          "client_id": "373562930910-h4pt5f5vnr7o79cgnn43o429r3tv9slb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jawlah.app",
+            "certificate_hash": "31871097339340695b6f71a07f0bf6706f689c42"
+          }
+        },
+        {
+          "client_id": "373562930910-v7fs135gulpbem3bpon5aafnnu1us6n0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jawlah.app",
+            "certificate_hash": "2e208869c4a67ec9792dde23dba484614babd1d1"
+          }
+        },
+        {
+          "client_id": "373562930910-tnvo6klcgbem5t01cm3o4jagv9shi3gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHo1RNLSDkzNPdi20kThDW1E1ruKwdrjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373562930910-2l8vfn4vkr5ebkk237knq0ek8tqro2mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373562930910:android:bd16b494b31878f2c7344f",
+        "android_client_info": {
+          "package_name": "com.jawlah.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373562930910-rcpnujp49kdfibgq5vsgqk9vplto96ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jawlah.provider",
+            "certificate_hash": "bf0f46034e1988d0fe519ba7bc98a899a9e0cb75"
+          }
+        },
+        {
+          "client_id": "373562930910-tnvo6klcgbem5t01cm3o4jagv9shi3gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHo1RNLSDkzNPdi20kThDW1E1ruKwdrjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373562930910-2l8vfn4vkr5ebkk237knq0ek8tqro2mp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
